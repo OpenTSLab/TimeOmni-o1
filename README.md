@@ -3,7 +3,8 @@
 Code for the paper *TimeOmni-o1: Bidirectionally Coupling Time Series Foundation Models and LLMs
 for Multimodal Reasoning and Forecasting* (Ziyang Zhang, Shenyi Li, Wen Wu, Chao Zhang).
 
-[Paper (arXiv:2611.12902)](https://arxiv.org/abs/2611.12902) · [Project page](https://windowso.github.io/TimeOmni-o1-web/)
+[![Paper (arXiv:2611.12902)](https://img.shields.io/badge/arXiv-2611.12902-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2611.12902)
+[![Project Page](https://img.shields.io/badge/Project_Page-2563EB?logo=githubpages&logoColor=white)](https://windowso.github.io/TimeOmni-o1-web/)
 
 **TimeOmni-o1** couples a pretrained time series foundation model (TSFM; Chronos-2) and an LLM
 (Qwen3.5-9B) bidirectionally, so that one model architecture reads and generates both series and
